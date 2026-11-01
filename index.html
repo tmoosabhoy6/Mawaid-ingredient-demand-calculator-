@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mawaid Ingredients</title>
+  <meta name="description" content="Work out how much of each ingredient is needed per thaal and in total, from the Mawaid menu history.">
+  <meta name="theme-color" content="#1f5c3a">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231f5c3a'/%3E%3Cpath d='M7 15h18a9 9 0 0 1-18 0z' fill='%23f4c86a'/%3E%3Cpath d='M12 11c0-2 2-2 2-4M17 11c0-2 2-2 2-4' stroke='%23fff' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="currentColor"/><path d="M7 15h18a9 9 0 0 1-18 0z" fill="#f4c86a"/><path d="M12 11c0-2 2-2 2-4M17 11c0-2 2-2 2-4" stroke="#fff" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>
+      <div>
+        <h1>Mawaid Ingredients</h1>
+        <p class="tagline">Per thaal &amp; total, from your menu history</p>
+      </div>
+    </div>
+    <button type="button" id="syncPill" class="sync-pill" data-state="local" title="Saving status">
+      <span class="dot"></span><span class="label">On this device</span>
+    </button>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button type="button" role="tab" data-tab="calc" class="active" aria-selected="true">Calculate</button>
+    <button type="button" role="tab" data-tab="history" aria-selected="false">History</button>
+    <button type="button" role="tab" data-tab="dishes" aria-selected="false">Dishes</button>
+    <button type="button" role="tab" data-tab="settings" aria-selected="false">Settings</button>
+  </nav>
+
+  <div id="sampleBanner" class="banner" hidden>
+    These are <b>sample formulas</b> made from example data, not your real history.
+    <button type="button" class="linklike" data-goto="settings">Import your history sheet</button>
+  </div>
+
+  <main>
+    <!-- ============================ CALCULATE ============================ -->
+    <section id="tab-calc" class="tab active" role="tabpanel">
+      <div class="card">
+        <div class="card-head">
+          <h2><span class="step">1</span> Menu</h2>
+          <button type="button" class="btn ghost small" id="newMenuBtn">New menu</button>
+        </div>
+
+        <div class="grid2">
+          <label class="field">
+            <span class="label">Date</span>
+            <input type="date" id="fDate">
+          </label>
+          <div class="field">
+            <span class="label">Meal</span>
+            <div class="seg" id="fMeal" role="radiogroup" aria-label="Meal">
+              <button type="button" data-v="Lunch" role="radio">Lunch</button>
+              <button type="button" data-v="Dinner" role="radio">Dinner</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label" for="fThaals">Number of thaals</label>
+          <div class="thaal-row">
+            <button type="button" class="step-btn" data-step="-1" aria-label="One less thaal">&minus;</button>
+            <input id="fThaals" inputmode="decimal" placeholder="e.g. 80 or 74+15" autocomplete="off">
+            <button type="button" class="step-btn" data-step="1" aria-label="One more thaal">+</button>
+          </div>
+          <small class="hint" id="thaalHint">You can add groups, e.g. 74+15</small>
+        </div>
+
+        <div class="field">
+          <label class="label" for="fDish">Dishes</label>
+          <div class="dish-input">
+            <input id="fDish" placeholder="Type a dish name, then press Enter" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="dishSuggest" aria-autocomplete="list">
+            <button type="button" class="btn" id="addDishBtn">Add</button>
+            <ul id="dishSuggest" class="suggest" role="listbox" hidden></ul>
+          </div>
+          <div id="dishChips" class="chips" aria-live="polite"></div>
+        </div>
+
+        <details class="more" id="moreDetails">
+          <summary>More details <span class="muted">(optional)</span></summary>
+          <div class="grid2">
+            <label class="field">
+              <span class="label">Occasion / event</span>
+              <input id="fEvent" placeholder="e.g. Regular, Urs, Milad">
+            </label>
+            <label class="field">
+              <span class="label">Prepared by</span>
+              <input id="fCook" placeholder="Cook or person in charge">
+            </label>
+          </div>
+          <label class="field">
+            <span class="label">Notes</span>
+            <textarea id="fNotes" rows="2" placeholder="Anything to remember about this meal"></textarea>
+          </label>
+        </details>
+      </div>
+
+      <div class="card" id="resultCard">
+        <div class="card-head">
+          <h2><span class="step">2</span> Ingredients needed</h2>
+          <div class="seg small" id="viewSeg" role="radiogroup" aria-label="View">
+            <button type="button" data-v="combined" role="radio">All together</button>
+            <button type="button" data-v="bydish" role="radio">By dish</button>
+          </div>
+        </div>
+        <div id="resultBody"></div>
+      </div>
+
+      <div class="confirm-bar" id="confirmBar">
+        <div class="confirm-summary" id="confirmSummary">Add thaals and dishes</div>
+        <button type="button" class="btn primary big" id="confirmBtn" disabled>Confirm &amp; save</button>
+      </div>
+    </section>
+
+    <!-- ============================ HISTORY ============================ -->
+    <section id="tab-history" class="tab" role="tabpanel" hidden>
+      <div class="card">
+        <div class="toolbar">
+          <input type="search" id="historySearch" placeholder="Search a dish, date or event">
+          <button type="button" class="btn" id="historyRefresh">Refresh</button>
+        </div>
+        <p class="muted small" id="historyStatus"></p>
+      </div>
+      <div id="historyList"></div>
+    </section>
+
+    <!-- ============================ DISHES ============================ -->
+    <section id="tab-dishes" class="tab" role="tabpanel" hidden>
+      <div class="card">
+        <div class="toolbar">
+          <input type="search" id="dishSearch" placeholder="Search dishes">
+          <button type="button" class="btn primary" id="newDishBtn">+ New dish</button>
+        </div>
+        <p class="muted small" id="dishesStatus"></p>
+      </div>
+      <div id="dishList"></div>
+    </section>
+
+    <!-- ============================ SETTINGS ============================ -->
+    <section id="tab-settings" class="tab" role="tabpanel" hidden>
+
+      <div class="card">
+        <h2>Save to GitHub</h2>
+        <p class="muted">Confirmed menus are saved as one file per day in the <code>data</code> folder of the repository. Until this is set up, everything is kept on this device and sent automatically once it works.</p>
+        <div class="grid2">
+          <label class="field"><span class="label">Repository owner</span><input id="ghOwner" autocomplete="off" spellcheck="false"></label>
+          <label class="field"><span class="label">Repository name</span><input id="ghRepo" autocomplete="off" spellcheck="false"></label>
+        </div>
+        <div class="grid2">
+          <label class="field"><span class="label">Branch</span><input id="ghBranch" autocomplete="off" spellcheck="false" placeholder="main"></label>
+          <label class="field"><span class="label">Access token</span><input id="ghToken" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_..."></label>
+        </div>
+        <div class="actions">
+          <button type="button" class="btn primary" id="ghSave">Save &amp; test</button>
+          <span id="ghStatus" class="status-text" role="status"></span>
+        </div>
+        <details class="help">
+          <summary>How do I get a token?</summary>
+          <ol>
+            <li>On GitHub open <b>Settings &rarr; Developer settings &rarr; Personal access tokens &rarr; Fine-grained tokens</b> and choose <b>Generate new token</b>.</li>
+            <li>Under <b>Repository access</b> pick <b>Only select repositories</b> and choose this repository.</li>
+            <li>Under <b>Permissions &rarr; Repository permissions</b> set <b>Contents</b> to <b>Read and write</b>.</li>
+            <li>Generate, copy the token and paste it above. It stays only in this browser.</li>
+          </ol>
+        </details>
+      </div>
+
+      <div class="card">
+        <h2>Import menu history</h2>
+        <p class="muted">Upload the Excel / CSV file, or copy the rows from Google Sheets or Excel and paste them below. The app then works out the per-thaal quantity of every ingredient for every dish.</p>
+        <div class="import-src">
+          <label class="file-drop">
+            <input type="file" id="importFile" accept=".xlsx,.xls,.csv,.tsv,.txt">
+            <span><b>Choose a file</b> (.xlsx, .csv)</span>
+          </label>
+          <span class="or">or</span>
+          <textarea id="importPaste" rows="4" placeholder="Paste rows here (including the header row)"></textarea>
+        </div>
+        <div class="actions">
+          <button type="button" class="btn" id="importRead">Read data</button>
+          <span id="importStatus" class="status-text" role="status"></span>
+        </div>
+        <div id="importMapping"></div>
+        <div id="importResult"></div>
+        <details class="help">
+          <summary>What layout should the sheet have?</summary>
+          <p>One row per ingredient per menu. Column names don't have to match exactly; you can pick them after reading the data. Date, meal, thaals and menu only need to be on the first row of each menu.</p>
+          <div class="table-wrap"><table class="mini">
+            <thead><tr><th>Date</th><th>Meal</th><th>Thaals</th><th>Menu</th><th>Ingredient</th><th>Qty</th><th>Unit</th></tr></thead>
+            <tbody>
+              <tr><td>01/04/2026</td><td>Lunch</td><td>74+15</td><td>Aloo Pitha + Dal Gosht + Chawal</td><td>Onion</td><td>18</td><td>kg</td></tr>
+              <tr><td></td><td></td><td></td><td></td><td>Mutton</td><td>40</td><td>kg</td></tr>
+              <tr><td></td><td></td><td></td><td></td><td>Oil</td><td>6500</td><td>ml</td></tr>
+            </tbody>
+          </table></div>
+        </details>
+      </div>
+
+      <div class="card">
+        <h2>Current formulas</h2>
+        <div id="modelInfo"></div>
+      </div>
+
+      <div class="card">
+        <h2>This device</h2>
+        <div id="deviceInfo"></div>
+        <div class="actions">
+          <button type="button" class="btn" id="syncNow">Sync now</button>
+          <button type="button" class="btn" id="backupBtn">Download backup</button>
+          <button type="button" class="btn danger ghost" id="clearDevice">Clear this device</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <h3 id="modalTitle"></h3>
+      <div id="modalBody"></div>
+      <div class="modal-actions" id="modalActions"></div>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <datalist id="ingredientList"></datalist>
+
+  <script src="js/config.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="model/model.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+{
+  "dishes": {
+    "alu pitha": "Aloo Pitha",
+    "daal gosht": "Dal Gosht",
+    "dal gosh": "Dal Gosht",
+    "chaval": "Chawal",
+    "rice": "Chawal",
+    "keema": "Kheema",
+    "bhurji": "Egg Bhurji",
+    "anda bhurji": "Egg Bhurji"
+  },
+  "ingredients": {
+    "kanda": "Onion",
+    "pyaz": "Onion",
+    "onions": "Onion",
+    "tameta": "Tomato",
+    "tamatar": "Tomato",
+    "tomatoes": "Tomato",
+    "batata": "Potato",
+    "aloo": "Potato",
+    "potatoes": "Potato",
+    "egg": "Eggs",
+    "anda": "Eggs",
+    "mithu": "Salt",
+    "namak": "Salt",
+    "khand": "Sugar",
+    "cheeni": "Sugar",
+    "tel": "Oil",
+    "doodh": "Milk",
+    "dudh": "Milk",
+    "dahi": "Curd"
+  }
+}

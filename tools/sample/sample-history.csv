@@ -1,0 +1,1828 @@
+Date,Meal,Thaals,Menu,Ingredient,Qty,Unit
+01/04/2026,Lunch,56,Aloo Pitha + Kadhi + Chawal + Cream Cornflakes,Potato,23.7,kg
+,,,,Besan,7.22,kg
+,,,,Oil,3.49,ltr
+,,,,Green Chilli,585,gm
+,,,,Salt,742,gm
+,,,,Curd,23.55,kg
+,,,,Ghee,1.11,kg
+,,,,Basmati Rice,19.69,kg
+,,,,Cornflakes,4.57,kg
+,,,,Fresh Cream,5.93,ltr
+,,,,Sugar,2.66,kg
+,,,,Milk,16.43,ltr
+,,,,Salad Cucumber,5.78,kg
+,,,,Lemon,109,nos
+,,,,Drinking Water,57,pkt
+01/04/2026,Dinner,100+3,Chicken Biryani + Chawal + Cream Cornflakes,Chicken,73.55,kg
+,,,,Basmati Rice,73.4,kg
+,,,,Onion,24.48,kg
+,,,,Curd,15.82,kg
+,,,,Biryani Masala,1.03,kg
+,,,,Ghee,4.07,kg
+,,,,Oil,3.02,ltr
+,,,,Salt,1.52,kg
+,,,,Cornflakes,7.84,kg
+,,,,Fresh Cream,10.61,ltr
+,,,,Sugar,5.07,kg
+,,,,Milk,30.22,ltr
+,,,,Salad Cucumber,10.01,kg
+,,,,Lemon,198,nos
+,,,,Drinking Water,100,pkt
+02/04/2026,Lunch,60,Aloo Pitha + Kheema + Roti + Chawal,Potato,22.94,kg
+,,,,Besan,4.64,kg
+,,,,Oil,7.07,ltr
+,,,,Green Chilli,598,gm
+,,,,Salt,980,gm
+,,,,Mutton Kheema,31.29,kg
+,,,,Onion,10.21,kg
+,,,,Tomato,4.9,kg
+,,,,Green Peas,4.74,kg
+,,,,Wheat Flour,24.59,kg
+,,,,Basmati Rice,19.74,kg
+,,,,Ghee,577,gm
+,,,,Salad Cucumber,6.04,kg
+,,,,Lemon,116,nos
+,,,,Drinking Water,58,pkt
+03/04/2026,Lunch,94+6,Aloo Pitha + Dal Gosht + Pav,Potato,41.14,kg
+,,,,Besan,8.36,kg
+,,,,Oil,10.34,ltr
+,,,,Green Chilli,1.01,kg
+,,,,Salt,1.3,kg
+,,,,Mutton,43.28,kg
+,,,,Toor Dal,11.67,kg
+,,,,Onion,15.61,kg
+,,,,Tomato,9.58,kg
+,,,,Ginger Garlic Paste,3.12,kg
+,,,,Garam Masala,472,gm
+,,,,Pav,1556,nos
+,,,,Butter,2.98,kg
+,,,,Salad Cucumber,10.51,kg
+,,,,Lemon,209,nos
+,,,,Drinking Water,103,pkt
+03/04/2026,Dinner,116+6,Kheema + Chawal + Pav + Fruit Salad,Mutton Kheema,58.96,kg
+,,,,Onion,20.73,kg
+,,,,Tomato,10.01,kg
+,,,,Green Peas,9.93,kg
+,,,,Oil,4.74,ltr
+,,,,Salt,1.31,kg
+,,,,Basmati Rice,40.67,kg
+,,,,Ghee,1.16,kg
+,,,,Pav,2065,nos
+,,,,Butter,3.86,kg
+,,,,Apple,351,nos
+,,,,Banana,515,nos
+,,,,Custard Powder,3.44,kg
+,,,,Milk,59.72,ltr
+,,,,Sugar,6.91,kg
+,,,,Salad Cucumber,12.82,kg
+,,,,Lemon,234,nos
+,,,,Drinking Water,119,pkt
+04/04/2026,Lunch,88,Aloo Pitha + Kheema + Chawal + Roti + Sheer Khurma,Potato,35.31,kg
+,,,,Besan,6.77,kg
+,,,,Oil,10.12,ltr
+,,,,Green Chilli,926,gm
+,,,,Salt,1.39,kg
+,,,,Mutton Kheema,43.32,kg
+,,,,Onion,16.26,kg
+,,,,Tomato,7,kg
+,,,,Green Peas,7.04,kg
+,,,,Basmati Rice,30.78,kg
+,,,,Ghee,2.72,kg
+,,,,Wheat Flour,36.77,kg
+,,,,Milk,104.74,ltr
+,,,,Vermicelli,5.34,kg
+,,,,Sugar,10.13,kg
+,,,,Dry Fruits,3.48,kg
+,,,,Salad Cucumber,9.27,kg
+,,,,Lemon,168,nos
+,,,,Drinking Water,87,pkt
+05/04/2026,Lunch,64,Aloo Pitha + Pav,Potato,26.86,kg
+,,,,Besan,5.4,kg
+,,,,Oil,3.67,ltr
+,,,,Green Chilli,658,gm
+,,,,Salt,322,gm
+,,,,Pav,1064,nos
+,,,,Butter,1.86,kg
+,,,,Salad Cucumber,6.14,kg
+,,,,Lemon,124,nos
+,,,,Drinking Water,63,pkt
+05/04/2026,Dinner,89+12,Egg Bhurji + Cream Cornflakes,Eggs,1257,nos
+,,,,Onion,15.68,kg
+,,,,Tomato,10.25,kg
+,,,,Green Chilli,1.05,kg
+,,,,Oil,3.16,ltr
+,,,,Salt,520,gm
+,,,,Cornflakes,8.37,kg
+,,,,Fresh Cream,9.58,ltr
+,,,,Sugar,5.18,kg
+,,,,Milk,30.01,ltr
+,,,,Salad Cucumber,10.42,kg
+,,,,Lemon,210,nos
+,,,,Drinking Water,103,pkt
+08/04/2026,Dinner,118+13,Dal Gosht + Egg Bhurji + Roti + Sheer Khurma,Mutton,55.44,kg
+,,,,Toor Dal,15.41,kg
+,,,,Onion,40.29,kg
+,,,,Tomato,26.86,kg
+,,,,Ginger Garlic Paste,4.08,kg
+,,,,Oil,11.39,ltr
+,,,,Salt,1.69,kg
+,,,,Garam Masala,693,gm
+,,,,Eggs,1564,nos
+,,,,Green Chilli,1.24,kg
+,,,,Wheat Flour,49.48,kg
+,,,,Milk,159.53,ltr
+,,,,Vermicelli,7.55,kg
+,,,,Sugar,14.82,kg
+,,,,Dry Fruits,4.93,kg
+,,,,Ghee,2.52,kg
+,,,,Salad Cucumber,13.09,kg
+,,,,Lemon,253,nos
+,,,,Drinking Water,134,pkt
+09/04/2026,Lunch,61+4,Aloo Pitha + Egg Bhurji + Roti + Pav + Sheer Khurma,Potato,26.18,kg
+,,,,Besan,5.05,kg
+,,,,Oil,6.69,ltr
+,,,,Green Chilli,1.31,kg
+,,,,Salt,672,gm
+,,,,Eggs,757,nos
+,,,,Onion,9.76,kg
+,,,,Tomato,6.51,kg
+,,,,Wheat Flour,25.33,kg
+,,,,Pav,1019,nos
+,,,,Butter,1.98,kg
+,,,,Milk,82.07,ltr
+,,,,Vermicelli,3.79,kg
+,,,,Sugar,7.77,kg
+,,,,Dry Fruits,2.6,kg
+,,,,Ghee,1.23,kg
+,,,,Salad Cucumber,6.26,kg
+,,,,Lemon,136,nos
+,,,,Drinking Water,63,pkt
+10/04/2026,Dinner,90+14,Kadhi + Pav,Curd,42.77,kg
+,,,,Besan,5.43,kg
+,,,,Ghee,1.04,kg
+,,,,Salt,435,gm
+,,,,Pav,1687,nos
+,,,,Butter,3.23,kg
+,,,,Salad Cucumber,10.77,kg
+,,,,Lemon,221,nos
+,,,,Drinking Water,101,pkt
+11/04/2026,Lunch,110,Egg Bhurji + Cream Cornflakes,Eggs,1289,nos
+,,,,Onion,15.69,kg
+,,,,Tomato,11.11,kg
+,,,,Green Chilli,1.05,kg
+,,,,Oil,3.49,ltr
+,,,,Salt,557,gm
+,,,,Cornflakes,9.03,kg
+,,,,Fresh Cream,10.96,ltr
+,,,,Sugar,5.53,kg
+,,,,Milk,32.37,ltr
+,,,,Salad Cucumber,10.35,kg
+,,,,Lemon,217,nos
+,,,,Drinking Water,115,pkt
+11/04/2026,Dinner,65,Kheema + Chicken Biryani + Sheer Khurma,Mutton Kheema,30.95,kg
+,,,,Onion,28.88,kg
+,,,,Tomato,5.47,kg
+,,,,Green Peas,5.19,kg
+,,,,Oil,4.42,ltr
+,,,,Salt,1.1,kg
+,,,,Chicken,45.42,kg
+,,,,Basmati Rice,26.26,kg
+,,,,Curd,10.04,kg
+,,,,Biryani Masala,649,gm
+,,,,Ghee,3.35,kg
+,,,,Milk,76.46,ltr
+,,,,Vermicelli,3.76,kg
+,,,,Sugar,8.11,kg
+,,,,Dry Fruits,2.48,kg
+,,,,Salad Cucumber,6.64,kg
+,,,,Lemon,135,nos
+,,,,Drinking Water,63,pkt
+12/04/2026,Lunch,111,Butter Chicken + Cream Cornflakes,Chicken,66.24,kg
+,,,,Butter,5.31,kg
+,,,,Fresh Cream,18.05,ltr
+,,,,Tomato,22.48,kg
+,,,,Onion,10.48,kg
+,,,,Ginger Garlic Paste,2.74,kg
+,,,,Salt,816,gm
+,,,,Cornflakes,9.02,kg
+,,,,Sugar,5.78,kg
+,,,,Milk,34.89,ltr
+,,,,Salad Cucumber,10.53,kg
+,,,,Lemon,224,nos
+,,,,Drinking Water,110,pkt
+12/04/2026,Dinner,96+6,Dal Gosht + Chicken Biryani + Roti,Mutton,45.03,kg
+,,,,Toor Dal,12.18,kg
+,,,,Onion,40.14,kg
+,,,,Tomato,10.31,kg
+,,,,Ginger Garlic Paste,3.22,kg
+,,,,Oil,8.95,ltr
+,,,,Salt,1.87,kg
+,,,,Garam Masala,489,gm
+,,,,Chicken,73.19,kg
+,,,,Basmati Rice,42.43,kg
+,,,,Curd,15.22,kg
+,,,,Biryani Masala,1.06,kg
+,,,,Ghee,2.93,kg
+,,,,Wheat Flour,41.17,kg
+,,,,Salad Cucumber,10.11,kg
+,,,,Lemon,202,nos
+,,,,Drinking Water,106,pkt
+13/04/2026,Dinner,45,Kadhi + Roti + Chawal + Sheer Khurma,Curd,17.85,kg
+,,,,Besan,2.21,kg
+,,,,Ghee,1.81,kg
+,,,,Salt,354,gm
+,,,,Wheat Flour,18.82,kg
+,,,,Oil,659,ml
+,,,,Basmati Rice,16.56,kg
+,,,,Milk,51.62,ltr
+,,,,Vermicelli,2.8,kg
+,,,,Sugar,5.38,kg
+,,,,Dry Fruits,1.72,kg
+,,,,Salad Cucumber,4.72,kg
+,,,,Lemon,94,nos
+,,,,Drinking Water,46,pkt
+14/04/2026,Lunch,47,Chicken Biryani + Kadhi + Pav,Chicken,34.28,kg
+,,,,Basmati Rice,19.12,kg
+,,,,Onion,11.69,kg
+,,,,Curd,25.47,kg
+,,,,Biryani Masala,470,gm
+,,,,Ghee,1.84,kg
+,,,,Oil,1.43,ltr
+,,,,Salt,679,gm
+,,,,Besan,2.39,kg
+,,,,Pav,777,nos
+,,,,Butter,1.39,kg
+,,,,Salad Cucumber,4.78,kg
+,,,,Lemon,90,nos
+,,,,Drinking Water,48,pkt
+14/04/2026,Dinner,93,Chicken Biryani + Dal Gosht + Pav,Chicken,63.81,kg
+,,,,Basmati Rice,37.21,kg
+,,,,Onion,36,kg
+,,,,Curd,14.61,kg
+,,,,Biryani Masala,938,gm
+,,,,Ghee,2.9,kg
+,,,,Oil,6.39,ltr
+,,,,Salt,1.65,kg
+,,,,Mutton,39.43,kg
+,,,,Toor Dal,11.25,kg
+,,,,Tomato,8.75,kg
+,,,,Ginger Garlic Paste,2.92,kg
+,,,,Garam Masala,443,gm
+,,,,Pav,1467,nos
+,,,,Butter,2.73,kg
+,,,,Salad Cucumber,8.94,kg
+,,,,Lemon,190,nos
+,,,,Drinking Water,98,pkt
+15/04/2026,Lunch,112,Aloo Pitha,Potato,42.97,kg
+,,,,Besan,8.9,kg
+,,,,Oil,6.57,ltr
+,,,,Green Chilli,1.08,kg
+,,,,Salt,579,gm
+,,,,Salad Cucumber,11.36,kg
+,,,,Lemon,215,nos
+,,,,Drinking Water,109,pkt
+15/04/2026,Dinner,60,Kheema + Pav + Roti + Sheer Khurma,Mutton Kheema,31.13,kg
+,,,,Onion,10.94,kg
+,,,,Tomato,5.08,kg
+,,,,Green Peas,4.87,kg
+,,,,Oil,3.21,ltr
+,,,,Salt,429,gm
+,,,,Pav,951,nos
+,,,,Butter,1.78,kg
+,,,,Wheat Flour,24.62,kg
+,,,,Milk,75.41,ltr
+,,,,Vermicelli,3.6,kg
+,,,,Sugar,7.13,kg
+,,,,Dry Fruits,2.27,kg
+,,,,Ghee,1.19,kg
+,,,,Salad Cucumber,5.89,kg
+,,,,Lemon,119,nos
+,,,,Drinking Water,60,pkt
+16/04/2026,Lunch,50,Kheema + Pav + Chawal + Fruit Salad,Mutton Kheema,24.2,kg
+,,,,Onion,9.43,kg
+,,,,Tomato,3.88,kg
+,,,,Green Peas,3.76,kg
+,,,,Oil,2.11,ltr
+,,,,Salt,537,gm
+,,,,Pav,763,nos
+,,,,Butter,1.57,kg
+,,,,Basmati Rice,16.74,kg
+,,,,Ghee,509,gm
+,,,,Apple,156,nos
+,,,,Banana,189,nos
+,,,,Custard Powder,1.51,kg
+,,,,Milk,24.63,ltr
+,,,,Sugar,3.11,kg
+,,,,Salad Cucumber,4.94,kg
+,,,,Lemon,103,nos
+,,,,Drinking Water,50,pkt
+18/04/2026,Lunch,98,Chicken Biryani + Roti + Pav + Cream Cornflakes,Chicken,72.44,kg
+,,,,Basmati Rice,37.48,kg
+,,,,Onion,25.47,kg
+,,,,Curd,15.05,kg
+,,,,Biryani Masala,957,gm
+,,,,Ghee,3.02,kg
+,,,,Oil,4.17,ltr
+,,,,Salt,1,kg
+,,,,Wheat Flour,38.46,kg
+,,,,Pav,1475,nos
+,,,,Butter,2.96,kg
+,,,,Cornflakes,7.53,kg
+,,,,Fresh Cream,9.22,ltr
+,,,,Sugar,4.92,kg
+,,,,Milk,30.32,ltr
+,,,,Salad Cucumber,10.2,kg
+,,,,Lemon,193,nos
+,,,,Drinking Water,102,pkt
+19/04/2026,Lunch,75+1,Egg Bhurji + Chawal + Roti + Cream Cornflakes,Eggs,933,nos
+,,,,Onion,10.78,kg
+,,,,Tomato,7.85,kg
+,,,,Green Chilli,756,gm
+,,,,Oil,3.41,ltr
+,,,,Salt,704,gm
+,,,,Basmati Rice,27.02,kg
+,,,,Ghee,782,gm
+,,,,Wheat Flour,31.67,kg
+,,,,Cornflakes,6.32,kg
+,,,,Fresh Cream,7.85,ltr
+,,,,Sugar,3.84,kg
+,,,,Milk,23.54,ltr
+,,,,Salad Cucumber,7.64,kg
+,,,,Lemon,147,nos
+,,,,Drinking Water,73,pkt
+19/04/2026,Dinner,110,Kadhi + Aloo Pitha + Pav + Chawal + Cream Cornflakes,Curd,42.73,kg
+,,,,Besan,14.55,kg
+,,,,Ghee,2.24,kg
+,,,,Salt,1.39,kg
+,,,,Potato,42.59,kg
+,,,,Oil,6.2,ltr
+,,,,Green Chilli,1.07,kg
+,,,,Pav,1690,nos
+,,,,Butter,3.34,kg
+,,,,Basmati Rice,40.39,kg
+,,,,Cornflakes,8.75,kg
+,,,,Fresh Cream,11.63,ltr
+,,,,Sugar,5.64,kg
+,,,,Milk,33.8,ltr
+,,,,Salad Cucumber,11.39,kg
+,,,,Lemon,222,nos
+,,,,Drinking Water,115,pkt
+20/04/2026,Lunch,119+12,Butter Chicken + Kadhi + Cream Cornflakes,Chicken,74.49,kg
+,,,,Butter,6.29,kg
+,,,,Fresh Cream,20.44,ltr
+,,,,Tomato,25.66,kg
+,,,,Onion,12.57,kg
+,,,,Ginger Garlic Paste,3.32,kg
+,,,,Salt,1.43,kg
+,,,,Curd,54.37,kg
+,,,,Besan,6.19,kg
+,,,,Ghee,1.38,kg
+,,,,Cornflakes,10.2,kg
+,,,,Sugar,6.31,kg
+,,,,Milk,40.41,ltr
+,,,,Salad Cucumber,12.54,kg
+,,,,Lemon,249,nos
+,,,,Drinking Water,125,pkt
+20/04/2026,Dinner,85,Kadhi + Fruit Salad,Curd,33.97,kg
+,,,,Besan,4.45,kg
+,,,,Ghee,812,gm
+,,,,Salt,324,gm
+,,,,Apple,260,nos
+,,,,Banana,337,nos
+,,,,Custard Powder,2.57,kg
+,,,,Milk,42.42,ltr
+,,,,Sugar,5.34,kg
+,,,,Salad Cucumber,8.92,kg
+,,,,Lemon,177,nos
+,,,,Drinking Water,86,pkt
+21/04/2026,Lunch,99,Kheema + Fruit Salad,Mutton Kheema,47.11,kg
+,,,,Onion,17,kg
+,,,,Tomato,7.82,kg
+,,,,Green Peas,7.73,kg
+,,,,Oil,4,ltr
+,,,,Salt,700,gm
+,,,,Apple,285,nos
+,,,,Banana,374,nos
+,,,,Custard Powder,2.91,kg
+,,,,Milk,50.81,ltr
+,,,,Sugar,6.02,kg
+,,,,Salad Cucumber,10.23,kg
+,,,,Lemon,198,nos
+,,,,Drinking Water,96,pkt
+21/04/2026,Dinner,58+11,Kadhi + Aloo Pitha,Curd,28.83,kg
+,,,,Besan,8.87,kg
+,,,,Ghee,720,gm
+,,,,Salt,607,gm
+,,,,Potato,26.81,kg
+,,,,Oil,4.24,ltr
+,,,,Green Chilli,719,gm
+,,,,Salad Cucumber,6.99,kg
+,,,,Lemon,139,nos
+,,,,Drinking Water,70,pkt
+22/04/2026,Dinner,109,Kheema + Pav + Cream Cornflakes,Mutton Kheema,53.26,kg
+,,,,Onion,20.58,kg
+,,,,Tomato,8.71,kg
+,,,,Green Peas,9.05,kg
+,,,,Oil,4.56,ltr
+,,,,Salt,760,gm
+,,,,Pav,1648,nos
+,,,,Butter,3.32,kg
+,,,,Cornflakes,8.95,kg
+,,,,Fresh Cream,10.83,ltr
+,,,,Sugar,5.5,kg
+,,,,Milk,32.84,ltr
+,,,,Salad Cucumber,10.32,kg
+,,,,Lemon,207,nos
+,,,,Drinking Water,112,pkt
+23/04/2026,Dinner,45+7,Butter Chicken + Roti + Pav + Fruit Salad,Chicken,31.01,kg
+,,,,Butter,4.31,kg
+,,,,Fresh Cream,3.08,ltr
+,,,,Tomato,9.79,kg
+,,,,Onion,5.23,kg
+,,,,Ginger Garlic Paste,1.34,kg
+,,,,Salt,382,gm
+,,,,Wheat Flour,21.22,kg
+,,,,Oil,734,ml
+,,,,Pav,815,nos
+,,,,Apple,153,nos
+,,,,Banana,202,nos
+,,,,Custard Powder,1.62,kg
+,,,,Milk,27.53,ltr
+,,,,Sugar,2.96,kg
+,,,,Salad Cucumber,5.26,kg
+,,,,Lemon,103,nos
+,,,,Drinking Water,50,pkt
+24/04/2026,Lunch,68,Chicken Biryani + Kheema + Roti + Sheer Khurma,Chicken,47.28,kg
+,,,,Basmati Rice,26.68,kg
+,,,,Onion,28.66,kg
+,,,,Curd,9.87,kg
+,,,,Biryani Masala,642,gm
+,,,,Ghee,3.4,kg
+,,,,Oil,5.62,ltr
+,,,,Salt,1.12,kg
+,,,,Mutton Kheema,35.4,kg
+,,,,Tomato,5.23,kg
+,,,,Green Peas,5.19,kg
+,,,,Wheat Flour,25.78,kg
+,,,,Milk,83.62,ltr
+,,,,Vermicelli,4.06,kg
+,,,,Sugar,7.76,kg
+,,,,Dry Fruits,2.84,kg
+,,,,Salad Cucumber,7.1,kg
+,,,,Lemon,143,nos
+,,,,Drinking Water,72,pkt
+24/04/2026,Dinner,43+16,Chicken Biryani + Egg Bhurji + Roti,Chicken,38.97,kg
+,,,,Basmati Rice,23.22,kg
+,,,,Onion,23.3,kg
+,,,,Curd,8.49,kg
+,,,,Biryani Masala,611,gm
+,,,,Ghee,1.71,kg
+,,,,Oil,4.35,ltr
+,,,,Salt,872,gm
+,,,,Eggs,669,nos
+,,,,Tomato,6,kg
+,,,,Green Chilli,588,gm
+,,,,Wheat Flour,22.98,kg
+,,,,Salad Cucumber,6.03,kg
+,,,,Lemon,125,nos
+,,,,Drinking Water,59,pkt
+25/04/2026,Lunch,112,Kadhi + Kheema + Roti + Sheer Khurma,Curd,45.32,kg
+,,,,Besan,5.58,kg
+,,,,Ghee,3.39,kg
+,,,,Salt,1.22,kg
+,,,,Mutton Kheema,54.96,kg
+,,,,Onion,19.92,kg
+,,,,Tomato,9.26,kg
+,,,,Green Peas,8.43,kg
+,,,,Oil,6.31,ltr
+,,,,Wheat Flour,44.22,kg
+,,,,Milk,131.28,ltr
+,,,,Vermicelli,7.12,kg
+,,,,Sugar,13.22,kg
+,,,,Dry Fruits,4.73,kg
+,,,,Salad Cucumber,11.49,kg
+,,,,Lemon,218,nos
+,,,,Drinking Water,109,pkt
+25/04/2026,Dinner,69+5,Aloo Pitha + Cream Cornflakes,Potato,28.87,kg
+,,,,Besan,6.02,kg
+,,,,Oil,4.5,ltr
+,,,,Green Chilli,764,gm
+,,,,Salt,390,gm
+,,,,Cornflakes,6.07,kg
+,,,,Fresh Cream,7.3,ltr
+,,,,Sugar,3.89,kg
+,,,,Milk,21.51,ltr
+,,,,Salad Cucumber,7.55,kg
+,,,,Lemon,148,nos
+,,,,Drinking Water,77,pkt
+26/04/2026,Lunch,68,Dal Gosht + Chawal + Fruit Salad,Mutton,29.73,kg
+,,,,Toor Dal,8.1,kg
+,,,,Onion,10,kg
+,,,,Tomato,6.69,kg
+,,,,Ginger Garlic Paste,2.11,kg
+,,,,Oil,2.59,ltr
+,,,,Salt,818,gm
+,,,,Garam Masala,344,gm
+,,,,Basmati Rice,24.12,kg
+,,,,Ghee,714,gm
+,,,,Apple,204,nos
+,,,,Banana,277,nos
+,,,,Custard Powder,2.04,kg
+,,,,Milk,34.27,ltr
+,,,,Sugar,3.98,kg
+,,,,Salad Cucumber,7.11,kg
+,,,,Lemon,139,nos
+,,,,Drinking Water,65,pkt
+27/04/2026,Dinner,75,Aloo Pitha + Roti + Sheer Khurma,Potato,29.84,kg
+,,,,Besan,6.25,kg
+,,,,Oil,5.62,ltr
+,,,,Green Chilli,735,gm
+,,,,Salt,360,gm
+,,,,Wheat Flour,30.69,kg
+,,,,Milk,90.53,ltr
+,,,,Vermicelli,4.74,kg
+,,,,Sugar,9.01,kg
+,,,,Dry Fruits,2.94,kg
+,,,,Ghee,1.53,kg
+,,,,Salad Cucumber,7.59,kg
+,,,,Lemon,142,nos
+,,,,Drinking Water,74,pkt
+28/04/2026,Lunch,114+12,Kadhi + Egg Bhurji + Sheer Khurma,Curd,47.45,kg
+,,,,Besan,6,kg
+,,,,Ghee,3.75,kg
+,,,,Salt,1.15,kg
+,,,,Eggs,1540,nos
+,,,,Onion,19.99,kg
+,,,,Tomato,13.08,kg
+,,,,Green Chilli,1.22,kg
+,,,,Oil,3.95,ltr
+,,,,Milk,147.35,ltr
+,,,,Vermicelli,7.91,kg
+,,,,Sugar,15.34,kg
+,,,,Dry Fruits,5.09,kg
+,,,,Salad Cucumber,12.66,kg
+,,,,Lemon,247,nos
+,,,,Drinking Water,133,pkt
+28/04/2026,Dinner,42,Egg Bhurji + Kheema + Sheer Khurma,Eggs,520,nos
+,,,,Onion,13.8,kg
+,,,,Tomato,7.53,kg
+,,,,Green Chilli,426,gm
+,,,,Oil,2.83,ltr
+,,,,Salt,500,gm
+,,,,Mutton Kheema,21.51,kg
+,,,,Green Peas,3.28,kg
+,,,,Milk,52.95,ltr
+,,,,Vermicelli,2.5,kg
+,,,,Sugar,4.87,kg
+,,,,Dry Fruits,1.78,kg
+,,,,Ghee,834,gm
+,,,,Salad Cucumber,4.19,kg
+,,,,Lemon,81,nos
+,,,,Drinking Water,44,pkt
+30/04/2026,Lunch,93+2,Dal Gosht + Butter Chicken + Pav,Mutton,43.18,kg
+,,,,Toor Dal,12.04,kg
+,,,,Onion,23.67,kg
+,,,,Tomato,28.66,kg
+,,,,Ginger Garlic Paste,5.32,kg
+,,,,Oil,3.87,ltr
+,,,,Salt,1.4,kg
+,,,,Garam Masala,494,gm
+,,,,Chicken,59.98,kg
+,,,,Butter,7.64,kg
+,,,,Fresh Cream,5.61,ltr
+,,,,Pav,1515,nos
+,,,,Salad Cucumber,8.98,kg
+,,,,Lemon,194,nos
+,,,,Drinking Water,90,pkt
+30/04/2026,Dinner,51+13,Dal Gosht + Chawal + Sheer Khurma,Mutton,28.86,kg
+,,,,Toor Dal,7.42,kg
+,,,,Onion,9.89,kg
+,,,,Tomato,6.29,kg
+,,,,Ginger Garlic Paste,1.85,kg
+,,,,Oil,2.44,ltr
+,,,,Salt,771,gm
+,,,,Garam Masala,324,gm
+,,,,Basmati Rice,23.6,kg
+,,,,Ghee,1.85,kg
+,,,,Milk,79.04,ltr
+,,,,Vermicelli,4.04,kg
+,,,,Sugar,7.75,kg
+,,,,Dry Fruits,2.54,kg
+,,,,Salad Cucumber,6.39,kg
+,,,,Lemon,122,nos
+,,,,Drinking Water,61,pkt
+01/05/2026,Lunch,53+1,Egg Bhurji + Roti + Cream Cornflakes,Eggs,669,nos
+,,,,Onion,7.72,kg
+,,,,Tomato,5.48,kg
+,,,,Green Chilli,508,gm
+,,,,Oil,2.49,ltr
+,,,,Salt,274,gm
+,,,,Wheat Flour,22.85,kg
+,,,,Cornflakes,4.23,kg
+,,,,Fresh Cream,5.48,ltr
+,,,,Sugar,2.6,kg
+,,,,Milk,16.69,ltr
+,,,,Salad Cucumber,5.65,kg
+,,,,Lemon,110,nos
+,,,,Drinking Water,53,pkt
+02/05/2026,Dinner,85+5,Butter Chicken + Kheema + Pav + Fruit Salad,Chicken,56.29,kg
+,,,,Butter,7.05,kg
+,,,,Fresh Cream,5.3,ltr
+,,,,Tomato,24.93,kg
+,,,,Onion,25.64,kg
+,,,,Ginger Garlic Paste,2.27,kg
+,,,,Salt,1.23,kg
+,,,,Mutton Kheema,43.39,kg
+,,,,Green Peas,7.62,kg
+,,,,Oil,3.44,ltr
+,,,,Pav,1393,nos
+,,,,Apple,255,nos
+,,,,Banana,340,nos
+,,,,Custard Powder,2.76,kg
+,,,,Milk,47.44,ltr
+,,,,Sugar,5.67,kg
+,,,,Salad Cucumber,9.44,kg
+,,,,Lemon,183,nos
+,,,,Drinking Water,91,pkt
+03/05/2026,Lunch,76,Kadhi + Roti + Fruit Salad,Curd,31.55,kg
+,,,,Besan,3.93,kg
+,,,,Ghee,728,gm
+,,,,Salt,317,gm
+,,,,Wheat Flour,30.2,kg
+,,,,Oil,1.09,ltr
+,,,,Apple,227,nos
+,,,,Banana,316,nos
+,,,,Custard Powder,2.39,kg
+,,,,Milk,36.58,ltr
+,,,,Sugar,4.83,kg
+,,,,Salad Cucumber,7.19,kg
+,,,,Lemon,148,nos
+,,,,Drinking Water,81,pkt
+04/05/2026,Dinner,80+19,Kadhi + Chawal,Curd,41.45,kg
+,,,,Besan,5.12,kg
+,,,,Ghee,1.98,kg
+,,,,Salt,752,gm
+,,,,Basmati Rice,32.72,kg
+,,,,Salad Cucumber,10.45,kg
+,,,,Lemon,209,nos
+,,,,Drinking Water,105,pkt
+06/05/2026,Lunch,45,Aloo Pitha,Potato,17.18,kg
+,,,,Besan,3.81,kg
+,,,,Oil,2.66,ltr
+,,,,Green Chilli,469,gm
+,,,,Salt,215,gm
+,,,,Salad Cucumber,4.41,kg
+,,,,Lemon,90,nos
+,,,,Drinking Water,44,pkt
+06/05/2026,Dinner,74+11,Dal Gosht + Chicken Biryani,Mutton,38.02,kg
+,,,,Toor Dal,10.72,kg
+,,,,Onion,34.09,kg
+,,,,Tomato,8.1,kg
+,,,,Ginger Garlic Paste,2.69,kg
+,,,,Oil,5.77,ltr
+,,,,Salt,1.54,kg
+,,,,Garam Masala,442,gm
+,,,,Chicken,62.9,kg
+,,,,Basmati Rice,32.03,kg
+,,,,Curd,13.1,kg
+,,,,Biryani Masala,836,gm
+,,,,Ghee,2.62,kg
+,,,,Salad Cucumber,8.04,kg
+,,,,Lemon,172,nos
+,,,,Drinking Water,87,pkt
+08/05/2026,Lunch,117,Aloo Pitha + Butter Chicken + Pav + Roti,Potato,46.46,kg
+,,,,Besan,8.86,kg
+,,,,Oil,8.51,ltr
+,,,,Green Chilli,1.22,kg
+,,,,Salt,1.49,kg
+,,,,Chicken,67.53,kg
+,,,,Butter,9.86,kg
+,,,,Fresh Cream,7.33,ltr
+,,,,Tomato,23.63,kg
+,,,,Onion,11.62,kg
+,,,,Ginger Garlic Paste,3.06,kg
+,,,,Pav,1816,nos
+,,,,Wheat Flour,44.86,kg
+,,,,Salad Cucumber,11.51,kg
+,,,,Lemon,246,nos
+,,,,Drinking Water,118,pkt
+08/05/2026,Dinner,111,Dal Gosht + Fruit Salad,Mutton,52.93,kg
+,,,,Toor Dal,13.11,kg
+,,,,Onion,16.33,kg
+,,,,Tomato,10.65,kg
+,,,,Ginger Garlic Paste,3.33,kg
+,,,,Oil,4.57,ltr
+,,,,Salt,852,gm
+,,,,Garam Masala,540,gm
+,,,,Apple,343,nos
+,,,,Banana,471,nos
+,,,,Custard Powder,3.32,kg
+,,,,Milk,57.82,ltr
+,,,,Sugar,6.36,kg
+,,,,Salad Cucumber,11.59,kg
+,,,,Lemon,223,nos
+,,,,Drinking Water,106,pkt
+09/05/2026,Lunch,65+5,Aloo Pitha + Butter Chicken + Pav + Sheer Khurma,Potato,28.29,kg
+,,,,Besan,5.7,kg
+,,,,Oil,4.34,ltr
+,,,,Green Chilli,703,gm
+,,,,Salt,838,gm
+,,,,Chicken,43.22,kg
+,,,,Butter,5.6,kg
+,,,,Fresh Cream,4.44,ltr
+,,,,Tomato,13.42,kg
+,,,,Onion,7.16,kg
+,,,,Ginger Garlic Paste,1.77,kg
+,,,,Pav,1077,nos
+,,,,Milk,85.67,ltr
+,,,,Vermicelli,4.11,kg
+,,,,Sugar,8.82,kg
+,,,,Dry Fruits,2.87,kg
+,,,,Ghee,1.32,kg
+,,,,Salad Cucumber,7.28,kg
+,,,,Lemon,147,nos
+,,,,Drinking Water,69,pkt
+10/05/2026,Dinner,89,Aloo Pitha + Dal Gosht + Roti + Sheer Khurma,Potato,35.28,kg
+,,,,Besan,7.22,kg
+,,,,Oil,10.5,ltr
+,,,,Green Chilli,858,gm
+,,,,Salt,1.19,kg
+,,,,Mutton,41.04,kg
+,,,,Toor Dal,10.32,kg
+,,,,Onion,13.77,kg
+,,,,Tomato,9.17,kg
+,,,,Ginger Garlic Paste,2.73,kg
+,,,,Garam Masala,443,gm
+,,,,Wheat Flour,33.57,kg
+,,,,Milk,110.6,ltr
+,,,,Vermicelli,5.18,kg
+,,,,Sugar,10.43,kg
+,,,,Dry Fruits,3.69,kg
+,,,,Ghee,1.85,kg
+,,,,Salad Cucumber,8.56,kg
+,,,,Lemon,180,nos
+,,,,Drinking Water,87,pkt
+11/05/2026,Lunch,45+4,Kheema + Sheer Khurma,Mutton Kheema,23.78,kg
+,,,,Onion,8.64,kg
+,,,,Tomato,3.84,kg
+,,,,Green Peas,4.01,kg
+,,,,Oil,1.87,ltr
+,,,,Salt,358,gm
+,,,,Milk,61,ltr
+,,,,Vermicelli,2.95,kg
+,,,,Sugar,5.9,kg
+,,,,Dry Fruits,1.85,kg
+,,,,Ghee,930,gm
+,,,,Salad Cucumber,5.14,kg
+,,,,Lemon,100,nos
+,,,,Drinking Water,51,pkt
+11/05/2026,Dinner,109+7,Chicken Biryani + Chawal + Pav,Chicken,82.96,kg
+,,,,Basmati Rice,89.3,kg
+,,,,Onion,29.07,kg
+,,,,Curd,17.14,kg
+,,,,Biryani Masala,1.14,kg
+,,,,Ghee,4.67,kg
+,,,,Oil,3.4,ltr
+,,,,Salt,1.59,kg
+,,,,Pav,1927,nos
+,,,,Butter,3.32,kg
+,,,,Salad Cucumber,11.17,kg
+,,,,Lemon,227,nos
+,,,,Drinking Water,115,pkt
+12/05/2026,Lunch,54+16,Butter Chicken + Aloo Pitha,Chicken,39.84,kg
+,,,,Butter,3.48,kg
+,,,,Fresh Cream,4.28,ltr
+,,,,Tomato,13.61,kg
+,,,,Onion,6.91,kg
+,,,,Ginger Garlic Paste,1.65,kg
+,,,,Salt,858,gm
+,,,,Potato,28.57,kg
+,,,,Besan,5.33,kg
+,,,,Oil,4.12,ltr
+,,,,Green Chilli,672,gm
+,,,,Salad Cucumber,6.62,kg
+,,,,Lemon,136,nos
+,,,,Drinking Water,75,pkt
+12/05/2026,Dinner,115,Chicken Biryani + Chawal,Chicken,80.97,kg
+,,,,Basmati Rice,87.02,kg
+,,,,Onion,27.47,kg
+,,,,Curd,17.28,kg
+,,,,Biryani Masala,1.2,kg
+,,,,Ghee,4.53,kg
+,,,,Oil,3.63,ltr
+,,,,Salt,1.65,kg
+,,,,Salad Cucumber,11.37,kg
+,,,,Lemon,238,nos
+,,,,Drinking Water,120,pkt
+13/05/2026,Dinner,76,Dal Gosht + Butter Chicken + Sheer Khurma,Mutton,35.08,kg
+,,,,Toor Dal,9.02,kg
+,,,,Onion,18.18,kg
+,,,,Tomato,23.38,kg
+,,,,Ginger Garlic Paste,4.05,kg
+,,,,Oil,3.12,ltr
+,,,,Salt,1.16,kg
+,,,,Garam Masala,387,gm
+,,,,Chicken,48.02,kg
+,,,,Butter,3.93,kg
+,,,,Fresh Cream,4.7,ltr
+,,,,Milk,89.28,ltr
+,,,,Vermicelli,4.59,kg
+,,,,Sugar,9.35,kg
+,,,,Dry Fruits,2.97,kg
+,,,,Ghee,1.46,kg
+,,,,Salad Cucumber,7.91,kg
+,,,,Lemon,150,nos
+,,,,Drinking Water,78,pkt
+14/05/2026,Dinner,41,Aloo Pitha + Sheer Khurma,Potato,15.85,kg
+,,,,Besan,3.4,kg
+,,,,Oil,2.38,ltr
+,,,,Green Chilli,401,gm
+,,,,Salt,213,gm
+,,,,Milk,50.4,ltr
+,,,,Vermicelli,2.35,kg
+,,,,Sugar,5.05,kg
+,,,,Dry Fruits,1.58,kg
+,,,,Ghee,839,gm
+,,,,Salad Cucumber,4.31,kg
+,,,,Lemon,87,nos
+,,,,Drinking Water,42,pkt
+15/05/2026,Lunch,60,Aloo Pitha + Chicken Biryani + Roti + Chawal + Sheer Khurma,Potato,24.27,kg
+,,,,Besan,4.56,kg
+,,,,Oil,6.27,ltr
+,,,,Green Chilli,632,gm
+,,,,Salt,1.15,kg
+,,,,Chicken,41.89,kg
+,,,,Basmati Rice,44.31,kg
+,,,,Onion,14.93,kg
+,,,,Curd,9.44,kg
+,,,,Biryani Masala,602,gm
+,,,,Ghee,3.66,kg
+,,,,Wheat Flour,24.39,kg
+,,,,Milk,72.15,ltr
+,,,,Vermicelli,3.77,kg
+,,,,Sugar,7.54,kg
+,,,,Dry Fruits,2.45,kg
+,,,,Salad Cucumber,6.1,kg
+,,,,Lemon,119,nos
+,,,,Drinking Water,63,pkt
+16/05/2026,Dinner,76,Chicken Biryani + Egg Bhurji,Chicken,52.22,kg
+,,,,Basmati Rice,31.21,kg
+,,,,Onion,29.91,kg
+,,,,Curd,12.07,kg
+,,,,Biryani Masala,729,gm
+,,,,Ghee,2.39,kg
+,,,,Oil,4.48,ltr
+,,,,Salt,1.11,kg
+,,,,Eggs,967,nos
+,,,,Tomato,7.29,kg
+,,,,Green Chilli,742,gm
+,,,,Salad Cucumber,7.68,kg
+,,,,Lemon,145,nos
+,,,,Drinking Water,76,pkt
+17/05/2026,Lunch,88+6,Kheema + Chicken Biryani + Fruit Salad,Mutton Kheema,46.64,kg
+,,,,Onion,40.99,kg
+,,,,Tomato,7.28,kg
+,,,,Green Peas,7.97,kg
+,,,,Oil,6.69,ltr
+,,,,Salt,1.66,kg
+,,,,Chicken,62.21,kg
+,,,,Basmati Rice,37.98,kg
+,,,,Curd,13.56,kg
+,,,,Biryani Masala,884,gm
+,,,,Ghee,2.93,kg
+,,,,Apple,283,nos
+,,,,Banana,383,nos
+,,,,Custard Powder,2.78,kg
+,,,,Milk,45.22,ltr
+,,,,Sugar,5.65,kg
+,,,,Salad Cucumber,9.87,kg
+,,,,Lemon,194,nos
+,,,,Drinking Water,95,pkt
+17/05/2026,Dinner,85+16,Kheema + Butter Chicken + Chawal + Roti,Mutton Kheema,49.65,kg
+,,,,Onion,27.83,kg
+,,,,Tomato,26.8,kg
+,,,,Green Peas,7.81,kg
+,,,,Oil,5.62,ltr
+,,,,Salt,1.84,kg
+,,,,Chicken,60.33,kg
+,,,,Butter,4.88,kg
+,,,,Fresh Cream,6.28,ltr
+,,,,Ginger Garlic Paste,2.43,kg
+,,,,Basmati Rice,34.08,kg
+,,,,Ghee,1.06,kg
+,,,,Wheat Flour,38.25,kg
+,,,,Salad Cucumber,9.57,kg
+,,,,Lemon,195,nos
+,,,,Drinking Water,105,pkt
+18/05/2026,Lunch,77+7,Aloo Pitha + Dal Gosht + Roti + Fruit Salad,Potato,31.91,kg
+,,,,Besan,6.66,kg
+,,,,Oil,9.42,ltr
+,,,,Green Chilli,827,gm
+,,,,Salt,1.1,kg
+,,,,Mutton,35.85,kg
+,,,,Toor Dal,10.4,kg
+,,,,Onion,12.01,kg
+,,,,Tomato,7.96,kg
+,,,,Ginger Garlic Paste,2.65,kg
+,,,,Garam Masala,419,gm
+,,,,Wheat Flour,34.5,kg
+,,,,Apple,258,nos
+,,,,Banana,328,nos
+,,,,Custard Powder,2.4,kg
+,,,,Milk,41.68,ltr
+,,,,Sugar,5.09,kg
+,,,,Salad Cucumber,8.1,kg
+,,,,Lemon,162,nos
+,,,,Drinking Water,82,pkt
+18/05/2026,Dinner,53+19,Aloo Pitha + Cream Cornflakes,Potato,28.33,kg
+,,,,Besan,5.83,kg
+,,,,Oil,4.44,ltr
+,,,,Green Chilli,736,gm
+,,,,Salt,350,gm
+,,,,Cornflakes,5.63,kg
+,,,,Fresh Cream,6.98,ltr
+,,,,Sugar,3.67,kg
+,,,,Milk,20.83,ltr
+,,,,Salad Cucumber,6.95,kg
+,,,,Lemon,144,nos
+,,,,Drinking Water,73,pkt
+19/05/2026,Lunch,76+12,Kadhi + Aloo Pitha + Roti + Chawal,Curd,33.11,kg
+,,,,Besan,11.17,kg
+,,,,Ghee,1.79,kg
+,,,,Salt,1.1,kg
+,,,,Potato,36.23,kg
+,,,,Oil,6.45,ltr
+,,,,Green Chilli,915,gm
+,,,,Wheat Flour,33.77,kg
+,,,,Basmati Rice,29.81,kg
+,,,,Salad Cucumber,9.03,kg
+,,,,Lemon,181,nos
+,,,,Drinking Water,89,pkt
+19/05/2026,Dinner,110+11,Kadhi + Dal Gosht + Pav + Sheer Khurma,Curd,48.31,kg
+,,,,Besan,5.9,kg
+,,,,Ghee,3.64,kg
+,,,,Salt,1.42,kg
+,,,,Mutton,56.54,kg
+,,,,Toor Dal,15.06,kg
+,,,,Onion,17.62,kg
+,,,,Tomato,12.48,kg
+,,,,Ginger Garlic Paste,3.72,kg
+,,,,Oil,4.64,ltr
+,,,,Garam Masala,582,gm
+,,,,Pav,2015,nos
+,,,,Butter,3.47,kg
+,,,,Milk,140.81,ltr
+,,,,Vermicelli,7,kg
+,,,,Sugar,14.79,kg
+,,,,Dry Fruits,4.67,kg
+,,,,Salad Cucumber,11.48,kg
+,,,,Lemon,239,nos
+,,,,Drinking Water,115,pkt
+20/05/2026,Dinner,63,Egg Bhurji + Kheema + Pav + Chawal,Eggs,747,nos
+,,,,Onion,20.22,kg
+,,,,Tomato,11.57,kg
+,,,,Green Chilli,653,gm
+,,,,Oil,4.26,ltr
+,,,,Salt,1.02,kg
+,,,,Mutton Kheema,33.24,kg
+,,,,Green Peas,4.87,kg
+,,,,Pav,1024,nos
+,,,,Butter,1.95,kg
+,,,,Basmati Rice,22.51,kg
+,,,,Ghee,623,gm
+,,,,Salad Cucumber,6.22,kg
+,,,,Lemon,124,nos
+,,,,Drinking Water,66,pkt
+22/05/2026,Lunch,79,Egg Bhurji,Eggs,898,nos
+,,,,Onion,11.28,kg
+,,,,Tomato,8.16,kg
+,,,,Green Chilli,778,gm
+,,,,Oil,2.36,ltr
+,,,,Salt,409,gm
+,,,,Salad Cucumber,7.77,kg
+,,,,Lemon,151,nos
+,,,,Drinking Water,79,pkt
+23/05/2026,Lunch,79+6,Chicken Biryani + Chawal + Pav + Sheer Khurma,Chicken,59.32,kg
+,,,,Basmati Rice,65.05,kg
+,,,,Onion,20.93,kg
+,,,,Curd,12.11,kg
+,,,,Biryani Masala,814,gm
+,,,,Ghee,5.06,kg
+,,,,Oil,2.69,ltr
+,,,,Salt,1.18,kg
+,,,,Pav,1283,nos
+,,,,Butter,2.56,kg
+,,,,Milk,102.05,ltr
+,,,,Vermicelli,5.29,kg
+,,,,Sugar,9.91,kg
+,,,,Dry Fruits,3.36,kg
+,,,,Salad Cucumber,8.31,kg
+,,,,Lemon,170,nos
+,,,,Drinking Water,84,pkt
+23/05/2026,Dinner,80,Chicken Biryani + Aloo Pitha + Sheer Khurma,Chicken,52.73,kg
+,,,,Basmati Rice,33.1,kg
+,,,,Onion,20.5,kg
+,,,,Curd,11.78,kg
+,,,,Biryani Masala,806,gm
+,,,,Ghee,3.99,kg
+,,,,Oil,7.15,ltr
+,,,,Salt,1.19,kg
+,,,,Potato,32.77,kg
+,,,,Besan,6.78,kg
+,,,,Green Chilli,810,gm
+,,,,Milk,91.22,ltr
+,,,,Vermicelli,4.51,kg
+,,,,Sugar,10.18,kg
+,,,,Dry Fruits,3.11,kg
+,,,,Salad Cucumber,8.4,kg
+,,,,Lemon,152,nos
+,,,,Drinking Water,85,pkt
+24/05/2026,Lunch,75+1,Kheema + Roti + Pav,Mutton Kheema,39.46,kg
+,,,,Onion,14.49,kg
+,,,,Tomato,6.1,kg
+,,,,Green Peas,5.88,kg
+,,,,Oil,4.33,ltr
+,,,,Salt,521,gm
+,,,,Wheat Flour,29.11,kg
+,,,,Pav,1245,nos
+,,,,Butter,2.27,kg
+,,,,Salad Cucumber,7.9,kg
+,,,,Lemon,151,nos
+,,,,Drinking Water,78,pkt
+24/05/2026,Dinner,45,Egg Bhurji + Chawal + Roti,Eggs,525,nos
+,,,,Onion,6.56,kg
+,,,,Tomato,4.65,kg
+,,,,Green Chilli,465,gm
+,,,,Oil,2.06,ltr
+,,,,Salt,414,gm
+,,,,Basmati Rice,15.39,kg
+,,,,Ghee,440,gm
+,,,,Wheat Flour,18.37,kg
+,,,,Salad Cucumber,4.26,kg
+,,,,Lemon,94,nos
+,,,,Drinking Water,44,pkt
+25/05/2026,Lunch,41,Egg Bhurji + Kheema + Chawal + Roti,Eggs,463,nos
+,,,,Onion,14,kg
+,,,,Tomato,7.66,kg
+,,,,Green Chilli,386,gm
+,,,,Oil,3.4,ltr
+,,,,Salt,655,gm
+,,,,Mutton Kheema,20.59,kg
+,,,,Green Peas,3.17,kg
+,,,,Basmati Rice,13.55,kg
+,,,,Ghee,434,gm
+,,,,Wheat Flour,17.11,kg
+,,,,Salad Cucumber,4.06,kg
+,,,,Lemon,83,nos
+,,,,Drinking Water,41,pkt
+26/05/2026,Dinner,80+10,Kadhi + Dal Gosht + Roti + Chawal + Cream Cornflakes,Curd,37.02,kg
+,,,,Besan,4.32,kg
+,,,,Ghee,1.74,kg
+,,,,Salt,1.43,kg
+,,,,Mutton,42.68,kg
+,,,,Toor Dal,10.95,kg
+,,,,Onion,13.18,kg
+,,,,Tomato,9.1,kg
+,,,,Ginger Garlic Paste,2.84,kg
+,,,,Oil,5,ltr
+,,,,Garam Masala,448,gm
+,,,,Wheat Flour,35.12,kg
+,,,,Basmati Rice,30.31,kg
+,,,,Cornflakes,6.8,kg
+,,,,Fresh Cream,9.08,ltr
+,,,,Sugar,4.63,kg
+,,,,Milk,28.36,ltr
+,,,,Salad Cucumber,9.15,kg
+,,,,Lemon,174,nos
+,,,,Drinking Water,91,pkt
+27/05/2026,Lunch,57+19,Kadhi + Aloo Pitha + Cream Cornflakes,Curd,30.7,kg
+,,,,Besan,10.03,kg
+,,,,Ghee,789,gm
+,,,,Salt,672,gm
+,,,,Potato,31.3,kg
+,,,,Oil,4.3,ltr
+,,,,Green Chilli,797,gm
+,,,,Cornflakes,5.97,kg
+,,,,Fresh Cream,7.46,ltr
+,,,,Sugar,3.93,kg
+,,,,Milk,22.37,ltr
+,,,,Salad Cucumber,7.45,kg
+,,,,Lemon,157,nos
+,,,,Drinking Water,73,pkt
+27/05/2026,Dinner,90+7,Egg Bhurji + Aloo Pitha + Sheer Khurma,Eggs,1180,nos
+,,,,Onion,15.42,kg
+,,,,Tomato,10.08,kg
+,,,,Green Chilli,1.92,kg
+,,,,Oil,8.92,ltr
+,,,,Salt,1.01,kg
+,,,,Potato,40.55,kg
+,,,,Besan,7.77,kg
+,,,,Milk,118.76,ltr
+,,,,Vermicelli,5.79,kg
+,,,,Sugar,11.04,kg
+,,,,Dry Fruits,3.94,kg
+,,,,Ghee,2.03,kg
+,,,,Salad Cucumber,9.96,kg
+,,,,Lemon,202,nos
+,,,,Drinking Water,94,pkt
+28/05/2026,Dinner,89+13,Kheema + Chawal + Pav,Mutton Kheema,49.37,kg
+,,,,Onion,18.06,kg
+,,,,Tomato,8.31,kg
+,,,,Green Peas,8.56,kg
+,,,,Oil,4.15,ltr
+,,,,Salt,1.16,kg
+,,,,Basmati Rice,36.63,kg
+,,,,Ghee,1.05,kg
+,,,,Pav,1689,nos
+,,,,Butter,2.91,kg
+,,,,Salad Cucumber,10.22,kg
+,,,,Lemon,205,nos
+,,,,Drinking Water,100,pkt
+29/05/2026,Lunch,103,Aloo Pitha + Egg Bhurji + Chawal + Fruit Salad,Potato,43.57,kg
+,,,,Besan,8.37,kg
+,,,,Oil,9.79,ltr
+,,,,Green Chilli,2.07,kg
+,,,,Salt,1.42,kg
+,,,,Eggs,1186,nos
+,,,,Onion,15.66,kg
+,,,,Tomato,9.85,kg
+,,,,Basmati Rice,37.94,kg
+,,,,Ghee,1.09,kg
+,,,,Apple,295,nos
+,,,,Banana,408,nos
+,,,,Custard Powder,2.96,kg
+,,,,Milk,52.15,ltr
+,,,,Sugar,5.99,kg
+,,,,Salad Cucumber,10.67,kg
+,,,,Lemon,195,nos
+,,,,Drinking Water,108,pkt
+29/05/2026,Dinner,51,Butter Chicken + Kheema + Pav + Cream Cornflakes,Chicken,32.41,kg
+,,,,Butter,3.97,kg
+,,,,Fresh Cream,8.27,ltr
+,,,,Tomato,13.89,kg
+,,,,Onion,14.77,kg
+,,,,Ginger Garlic Paste,1.35,kg
+,,,,Salt,690,gm
+,,,,Mutton Kheema,24.57,kg
+,,,,Green Peas,4.07,kg
+,,,,Oil,1.93,ltr
+,,,,Pav,801,nos
+,,,,Cornflakes,3.95,kg
+,,,,Sugar,2.64,kg
+,,,,Milk,15.42,ltr
+,,,,Salad Cucumber,5.21,kg
+,,,,Lemon,105,nos
+,,,,Drinking Water,50,pkt
+30/05/2026,Dinner,89+2,Egg Bhurji + Kheema + Roti + Chawal,Eggs,1120,nos
+,,,,Onion,28.58,kg
+,,,,Tomato,16.33,kg
+,,,,Green Chilli,931,gm
+,,,,Oil,7.89,ltr
+,,,,Salt,1.42,kg
+,,,,Mutton Kheema,43.18,kg
+,,,,Green Peas,7.2,kg
+,,,,Wheat Flour,37.34,kg
+,,,,Basmati Rice,31.25,kg
+,,,,Ghee,900,gm
+,,,,Salad Cucumber,9.38,kg
+,,,,Lemon,182,nos
+,,,,Drinking Water,95,pkt
+31/05/2026,Lunch,83,Chicken Biryani + Kheema + Pav + Sheer Khurma,Chicken,56.97,kg
+,,,,Basmati Rice,34.13,kg
+,,,,Onion,36.56,kg
+,,,,Curd,12.22,kg
+,,,,Biryani Masala,865,gm
+,,,,Ghee,4.25,kg
+,,,,Oil,5.91,ltr
+,,,,Salt,1.37,kg
+,,,,Mutton Kheema,42.94,kg
+,,,,Tomato,6.69,kg
+,,,,Green Peas,6.78,kg
+,,,,Pav,1265,nos
+,,,,Butter,2.47,kg
+,,,,Milk,99.88,ltr
+,,,,Vermicelli,5.08,kg
+,,,,Sugar,10.46,kg
+,,,,Dry Fruits,3.21,kg
+,,,,Salad Cucumber,8.79,kg
+,,,,Lemon,168,nos
+,,,,Drinking Water,80,pkt
+01/06/2026,Lunch,86,Egg Bhurji + Kheema + Cream Cornflakes,Eggs,1083,nos
+,,,,Onion,28.12,kg
+,,,,Tomato,15.71,kg
+,,,,Green Chilli,899,gm
+,,,,Oil,6.08,ltr
+,,,,Salt,1.04,kg
+,,,,Mutton Kheema,44.56,kg
+,,,,Green Peas,6.94,kg
+,,,,Cornflakes,6.68,kg
+,,,,Fresh Cream,8.83,ltr
+,,,,Sugar,4.27,kg
+,,,,Milk,25.99,ltr
+,,,,Salad Cucumber,8.52,kg
+,,,,Lemon,181,nos
+,,,,Drinking Water,81,pkt
+01/06/2026,Dinner,115+8,Egg Bhurji + Dal Gosht + Pav,Eggs,1490,nos
+,,,,Onion,36.58,kg
+,,,,Tomato,25.23,kg
+,,,,Green Chilli,1.18,kg
+,,,,Oil,8.2,ltr
+,,,,Salt,1.54,kg
+,,,,Mutton,53.16,kg
+,,,,Toor Dal,15.61,kg
+,,,,Ginger Garlic Paste,3.9,kg
+,,,,Garam Masala,595,gm
+,,,,Pav,1896,nos
+,,,,Butter,3.53,kg
+,,,,Salad Cucumber,11.68,kg
+,,,,Lemon,245,nos
+,,,,Drinking Water,125,pkt
+02/06/2026,Lunch,67,Egg Bhurji + Kadhi + Chawal,Eggs,762,nos
+,,,,Onion,10.61,kg
+,,,,Tomato,6.93,kg
+,,,,Green Chilli,631,gm
+,,,,Oil,1.97,ltr
+,,,,Salt,856,gm
+,,,,Curd,26.1,kg
+,,,,Besan,3.27,kg
+,,,,Ghee,1.32,kg
+,,,,Basmati Rice,24.55,kg
+,,,,Salad Cucumber,7.05,kg
+,,,,Lemon,132,nos
+,,,,Drinking Water,66,pkt
+03/06/2026,Dinner,91+13,Kadhi + Fruit Salad,Curd,42.24,kg
+,,,,Besan,4.9,kg
+,,,,Ghee,1.02,kg
+,,,,Salt,433,gm
+,,,,Apple,330,nos
+,,,,Banana,393,nos
+,,,,Custard Powder,3.26,kg
+,,,,Milk,51.36,ltr
+,,,,Sugar,6.29,kg
+,,,,Salad Cucumber,10.4,kg
+,,,,Lemon,213,nos
+,,,,Drinking Water,99,pkt
+04/06/2026,Lunch,71+18,Dal Gosht + Egg Bhurji + Roti + Fruit Salad,Mutton,41.42,kg
+,,,,Toor Dal,11,kg
+,,,,Onion,26.53,kg
+,,,,Tomato,17.58,kg
+,,,,Ginger Garlic Paste,2.79,kg
+,,,,Oil,7.51,ltr
+,,,,Salt,1.18,kg
+,,,,Garam Masala,453,gm
+,,,,Eggs,1031,nos
+,,,,Green Chilli,895,gm
+,,,,Wheat Flour,33.97,kg
+,,,,Apple,255,nos
+,,,,Banana,366,nos
+,,,,Custard Powder,2.61,kg
+,,,,Milk,43.42,ltr
+,,,,Sugar,5.14,kg
+,,,,Salad Cucumber,9.27,kg
+,,,,Lemon,170,nos
+,,,,Drinking Water,92,pkt
+05/06/2026,Lunch,89,Egg Bhurji + Kadhi + Roti,Eggs,1127,nos
+,,,,Onion,14,kg
+,,,,Tomato,8.85,kg
+,,,,Green Chilli,878,gm
+,,,,Oil,4.07,ltr
+,,,,Salt,804,gm
+,,,,Curd,34.31,kg
+,,,,Besan,4.25,kg
+,,,,Ghee,849,gm
+,,,,Wheat Flour,35.19,kg
+,,,,Salad Cucumber,9.42,kg
+,,,,Lemon,184,nos
+,,,,Drinking Water,87,pkt
+05/06/2026,Dinner,83,Chicken Biryani + Kheema + Sheer Khurma,Chicken,59.47,kg
+,,,,Basmati Rice,34.35,kg
+,,,,Onion,34.55,kg
+,,,,Curd,13.07,kg
+,,,,Biryani Masala,872,gm
+,,,,Ghee,4.02,kg
+,,,,Oil,5.98,ltr
+,,,,Salt,1.46,kg
+,,,,Mutton Kheema,43.6,kg
+,,,,Tomato,6.97,kg
+,,,,Green Peas,6.33,kg
+,,,,Milk,100.98,ltr
+,,,,Vermicelli,5.07,kg
+,,,,Sugar,9.58,kg
+,,,,Dry Fruits,3.33,kg
+,,,,Salad Cucumber,8.48,kg
+,,,,Lemon,164,nos
+,,,,Drinking Water,83,pkt
+06/06/2026,Lunch,94,Kadhi + Chawal,Curd,36.4,kg
+,,,,Besan,4.86,kg
+,,,,Ghee,1.81,kg
+,,,,Salt,733,gm
+,,,,Basmati Rice,34.77,kg
+,,,,Salad Cucumber,9.25,kg
+,,,,Lemon,181,nos
+,,,,Drinking Water,92,pkt
+07/06/2026,Dinner,119,Egg Bhurji + Butter Chicken + Roti + Pav + Cream Cornflakes,Eggs,1428,nos
+,,,,Onion,28.65,kg
+,,,,Tomato,37.18,kg
+,,,,Green Chilli,1.16,kg
+,,,,Oil,5.19,ltr
+,,,,Salt,1.37,kg
+,,,,Chicken,74.8,kg
+,,,,Butter,9.63,kg
+,,,,Fresh Cream,18.36,ltr
+,,,,Ginger Garlic Paste,2.83,kg
+,,,,Wheat Flour,50.41,kg
+,,,,Pav,1941,nos
+,,,,Cornflakes,9.1,kg
+,,,,Sugar,6.18,kg
+,,,,Milk,36.93,ltr
+,,,,Salad Cucumber,11.75,kg
+,,,,Lemon,231,nos
+,,,,Drinking Water,121,pkt
+08/06/2026,Lunch,103+7,Egg Bhurji + Cream Cornflakes,Eggs,1267,nos
+,,,,Onion,16.47,kg
+,,,,Tomato,10.81,kg
+,,,,Green Chilli,1.07,kg
+,,,,Oil,3.19,ltr
+,,,,Salt,553,gm
+,,,,Cornflakes,8.75,kg
+,,,,Fresh Cream,10.81,ltr
+,,,,Sugar,5.26,kg
+,,,,Milk,33.51,ltr
+,,,,Salad Cucumber,11.08,kg
+,,,,Lemon,227,nos
+,,,,Drinking Water,116,pkt
+09/06/2026,Lunch,67+14,Kadhi + Pav + Fruit Salad,Curd,30.93,kg
+,,,,Besan,3.88,kg
+,,,,Ghee,770,gm
+,,,,Salt,337,gm
+,,,,Pav,1366,nos
+,,,,Butter,2.55,kg
+,,,,Apple,252,nos
+,,,,Banana,317,nos
+,,,,Custard Powder,2.5,kg
+,,,,Milk,42.58,ltr
+,,,,Sugar,4.74,kg
+,,,,Salad Cucumber,8.19,kg
+,,,,Lemon,164,nos
+,,,,Drinking Water,77,pkt
+10/06/2026,Lunch,76+15,Egg Bhurji + Dal Gosht + Fruit Salad,Eggs,1104,nos
+,,,,Onion,27.58,kg
+,,,,Tomato,17.7,kg
+,,,,Green Chilli,887,gm
+,,,,Oil,6.6,ltr
+,,,,Salt,1.22,kg
+,,,,Mutton,41.19,kg
+,,,,Toor Dal,10.62,kg
+,,,,Ginger Garlic Paste,2.57,kg
+,,,,Garam Masala,481,gm
+,,,,Apple,271,nos
+,,,,Banana,381,nos
+,,,,Custard Powder,2.76,kg
+,,,,Milk,47.01,ltr
+,,,,Sugar,5.69,kg
+,,,,Salad Cucumber,8.73,kg
+,,,,Lemon,191,nos
+,,,,Drinking Water,89,pkt
+10/06/2026,Dinner,59+2,Kadhi,Curd,23.09,kg
+,,,,Besan,2.96,kg
+,,,,Ghee,573,gm
+,,,,Salt,240,gm
+,,,,Salad Cucumber,6.12,kg
+,,,,Lemon,120,nos
+,,,,Drinking Water,62,pkt
+11/06/2026,Lunch,95+11,Egg Bhurji + Dal Gosht + Pav + Roti,Eggs,1307,nos
+,,,,Onion,32.66,kg
+,,,,Tomato,21.67,kg
+,,,,Green Chilli,1,kg
+,,,,Oil,9.25,ltr
+,,,,Salt,1.41,kg
+,,,,Mutton,48.68,kg
+,,,,Toor Dal,12.87,kg
+,,,,Ginger Garlic Paste,3.36,kg
+,,,,Garam Masala,499,gm
+,,,,Pav,1763,nos
+,,,,Butter,3,kg
+,,,,Wheat Flour,41.26,kg
+,,,,Salad Cucumber,10.79,kg
+,,,,Lemon,220,nos
+,,,,Drinking Water,108,pkt
+12/06/2026,Lunch,119+13,Butter Chicken + Cream Cornflakes,Chicken,79.08,kg
+,,,,Butter,6.67,kg
+,,,,Fresh Cream,20.87,ltr
+,,,,Tomato,27.15,kg
+,,,,Onion,12.9,kg
+,,,,Ginger Garlic Paste,3.39,kg
+,,,,Salt,875,gm
+,,,,Cornflakes,10.03,kg
+,,,,Sugar,6.5,kg
+,,,,Milk,41.86,ltr
+,,,,Salad Cucumber,13.23,kg
+,,,,Lemon,273,nos
+,,,,Drinking Water,138,pkt
+12/06/2026,Dinner,69,Butter Chicken + Roti + Pav + Sheer Khurma,Chicken,43.33,kg
+,,,,Butter,5.38,kg
+,,,,Fresh Cream,4.16,ltr
+,,,,Tomato,14.41,kg
+,,,,Onion,6.53,kg
+,,,,Ginger Garlic Paste,1.77,kg
+,,,,Salt,476,gm
+,,,,Wheat Flour,26.35,kg
+,,,,Oil,984,ml
+,,,,Pav,1085,nos
+,,,,Milk,80.83,ltr
+,,,,Vermicelli,4.38,kg
+,,,,Sugar,8.57,kg
+,,,,Dry Fruits,2.78,kg
+,,,,Ghee,1.33,kg
+,,,,Salad Cucumber,7.28,kg
+,,,,Lemon,131,nos
+,,,,Drinking Water,66,pkt
+13/06/2026,Lunch,111,Kadhi + Aloo Pitha + Roti + Chawal,Curd,43.86,kg
+,,,,Besan,13.83,kg
+,,,,Ghee,2.12,kg
+,,,,Salt,1.43,kg
+,,,,Potato,42.47,kg
+,,,,Oil,8.12,ltr
+,,,,Green Chilli,1.11,kg
+,,,,Wheat Flour,47.02,kg
+,,,,Basmati Rice,39.31,kg
+,,,,Salad Cucumber,11.38,kg
+,,,,Lemon,214,nos
+,,,,Drinking Water,109,pkt
+14/06/2026,Lunch,41,Dal Gosht + Chicken Biryani + Roti,Mutton,17.71,kg
+,,,,Toor Dal,4.96,kg
+,,,,Onion,16.41,kg
+,,,,Tomato,4.2,kg
+,,,,Ginger Garlic Paste,1.19,kg
+,,,,Oil,3.42,ltr
+,,,,Salt,743,gm
+,,,,Garam Masala,201,gm
+,,,,Chicken,28.43,kg
+,,,,Basmati Rice,15.66,kg
+,,,,Curd,6.27,kg
+,,,,Biryani Masala,410,gm
+,,,,Ghee,1.19,kg
+,,,,Wheat Flour,15.45,kg
+,,,,Salad Cucumber,3.98,kg
+,,,,Lemon,79,nos
+,,,,Drinking Water,44,pkt
+14/06/2026,Dinner,103+15,Egg Bhurji + Aloo Pitha + Chawal + Fruit Salad,Eggs,1332,nos
+,,,,Onion,17.38,kg
+,,,,Tomato,11.26,kg
+,,,,Green Chilli,2.41,kg
+,,,,Oil,10.33,ltr
+,,,,Salt,1.68,kg
+,,,,Potato,46.35,kg
+,,,,Besan,9.22,kg
+,,,,Basmati Rice,39.34,kg
+,,,,Ghee,1.23,kg
+,,,,Apple,333,nos
+,,,,Banana,459,nos
+,,,,Custard Powder,3.37,kg
+,,,,Milk,56.36,ltr
+,,,,Sugar,7.39,kg
+,,,,Salad Cucumber,12.21,kg
+,,,,Lemon,238,nos
+,,,,Drinking Water,113,pkt
+15/06/2026,Dinner,71,Butter Chicken + Roti + Pav + Fruit Salad,Chicken,44.15,kg
+,,,,Butter,5.55,kg
+,,,,Fresh Cream,4.49,ltr
+,,,,Tomato,13.43,kg
+,,,,Onion,6.85,kg
+,,,,Ginger Garlic Paste,1.75,kg
+,,,,Salt,469,gm
+,,,,Wheat Flour,27.58,kg
+,,,,Oil,1.01,ltr
+,,,,Pav,1146,nos
+,,,,Apple,216,nos
+,,,,Banana,291,nos
+,,,,Custard Powder,2.23,kg
+,,,,Milk,36.58,ltr
+,,,,Sugar,4.19,kg
+,,,,Salad Cucumber,6.98,kg
+,,,,Lemon,139,nos
+,,,,Drinking Water,68,pkt
+16/06/2026,Lunch,73,Kheema + Aloo Pitha + Pav + Cream Cornflakes,Mutton Kheema,35.07,kg
+,,,,Onion,13.21,kg
+,,,,Tomato,5.89,kg
+,,,,Green Peas,5.59,kg
+,,,,Oil,7.16,ltr
+,,,,Salt,871,gm
+,,,,Potato,30.57,kg
+,,,,Besan,5.85,kg
+,,,,Green Chilli,761,gm
+,,,,Pav,1118,nos
+,,,,Butter,2.18,kg
+,,,,Cornflakes,5.6,kg
+,,,,Fresh Cream,6.92,ltr
+,,,,Sugar,3.84,kg
+,,,,Milk,22.27,ltr
+,,,,Salad Cucumber,7.73,kg
+,,,,Lemon,139,nos
+,,,,Drinking Water,75,pkt
+17/06/2026,Dinner,64,Aloo Pitha + Pav + Roti + Cream Cornflakes,Potato,26.26,kg
+,,,,Besan,5.18,kg
+,,,,Oil,4.8,ltr
+,,,,Green Chilli,642,gm
+,,,,Salt,325,gm
+,,,,Pav,1007,nos
+,,,,Butter,1.85,kg
+,,,,Wheat Flour,26.15,kg
+,,,,Cornflakes,5.07,kg
+,,,,Fresh Cream,6.5,ltr
+,,,,Sugar,3.16,kg
+,,,,Milk,18.14,ltr
+,,,,Salad Cucumber,6.59,kg
+,,,,Lemon,136,nos
+,,,,Drinking Water,64,pkt
+18/06/2026,Lunch,44+7,Butter Chicken + Fruit Salad,Chicken,31.42,kg
+,,,,Butter,2.7,kg
+,,,,Fresh Cream,2.95,ltr
+,,,,Tomato,10.43,kg
+,,,,Onion,5.29,kg
+,,,,Ginger Garlic Paste,1.2,kg
+,,,,Salt,342,gm
+,,,,Apple,161,nos
+,,,,Banana,211,nos
+,,,,Custard Powder,1.54,kg
+,,,,Milk,24.29,ltr
+,,,,Sugar,3.03,kg
+,,,,Salad Cucumber,4.88,kg
+,,,,Lemon,108,nos
+,,,,Drinking Water,54,pkt
+18/06/2026,Dinner,100+3,Kadhi + Cream Cornflakes,Curd,42.13,kg
+,,,,Besan,5.45,kg
+,,,,Ghee,993,gm
+,,,,Salt,435,gm
+,,,,Cornflakes,8.35,kg
+,,,,Fresh Cream,9.77,ltr
+,,,,Sugar,5.12,kg
+,,,,Milk,31.8,ltr
+,,,,Salad Cucumber,9.85,kg
+,,,,Lemon,204,nos
+,,,,Drinking Water,99,pkt
+19/06/2026,Dinner,78,Aloo Pitha + Chawal + Fruit Salad,Potato,31.36,kg
+,,,,Besan,6.41,kg
+,,,,Oil,4.41,ltr
+,,,,Green Chilli,826,gm
+,,,,Salt,721,gm
+,,,,Basmati Rice,26.43,kg
+,,,,Ghee,776,gm
+,,,,Apple,228,nos
+,,,,Banana,316,nos
+,,,,Custard Powder,2.41,kg
+,,,,Milk,39.22,ltr
+,,,,Sugar,4.43,kg
+,,,,Salad Cucumber,7.4,kg
+,,,,Lemon,165,nos
+,,,,Drinking Water,80,pkt
+20/06/2026,Lunch,116+7,Kadhi + Aloo Pitha,Curd,50.68,kg
+,,,,Besan,15.47,kg
+,,,,Ghee,1.22,kg
+,,,,Salt,1.09,kg
+,,,,Potato,50.29,kg
+,,,,Oil,7.26,ltr
+,,,,Green Chilli,1.19,kg
+,,,,Salad Cucumber,11.57,kg
+,,,,Lemon,239,nos
+,,,,Drinking Water,123,pkt
+20/06/2026,Dinner,92,Egg Bhurji + Chawal + Pav + Cream Cornflakes,Eggs,1060,nos
+,,,,Onion,13.66,kg
+,,,,Tomato,9.69,kg
+,,,,Green Chilli,890,gm
+,,,,Oil,2.7,ltr
+,,,,Salt,871,gm
+,,,,Basmati Rice,33.71,kg
+,,,,Ghee,870,gm
+,,,,Pav,1547,nos
+,,,,Butter,2.77,kg
+,,,,Cornflakes,7.3,kg
+,,,,Fresh Cream,9.2,ltr
+,,,,Sugar,4.48,kg
+,,,,Milk,26.52,ltr
+,,,,Salad Cucumber,8.65,kg
+,,,,Lemon,192,nos
+,,,,Drinking Water,92,pkt
+21/06/2026,Lunch,69+14,Chicken Biryani + Egg Bhurji + Chawal + Roti,Chicken,57.36,kg
+,,,,Basmati Rice,61.03,kg
+,,,,Onion,33.22,kg
+,,,,Curd,12.2,kg
+,,,,Biryani Masala,792,gm
+,,,,Ghee,3.44,kg
+,,,,Oil,6.28,ltr
+,,,,Salt,1.55,kg
+,,,,Eggs,1023,nos
+,,,,Tomato,7.91,kg
+,,,,Green Chilli,835,gm
+,,,,Wheat Flour,31.59,kg
+,,,,Salad Cucumber,8.07,kg
+,,,,Lemon,176,nos
+,,,,Drinking Water,80,pkt
+22/06/2026,Lunch,112,Kheema + Roti + Chawal + Cream Cornflakes,Mutton Kheema,55.15,kg
+,,,,Onion,19,kg
+,,,,Tomato,8.91,kg
+,,,,Green Peas,9.2,kg
+,,,,Oil,5.82,ltr
+,,,,Salt,1.19,kg
+,,,,Wheat Flour,46.3,kg
+,,,,Basmati Rice,37.28,kg
+,,,,Ghee,1.17,kg
+,,,,Cornflakes,9.19,kg
+,,,,Fresh Cream,11.59,ltr
+,,,,Sugar,5.36,kg
+,,,,Milk,35.18,ltr
+,,,,Salad Cucumber,11.36,kg
+,,,,Lemon,211,nos
+,,,,Drinking Water,106,pkt
+22/06/2026,Dinner,90+13,Aloo Pitha + Kadhi + Roti + Chawal + Fruit Salad,Potato,41.32,kg
+,,,,Besan,13.21,kg
+,,,,Oil,7.49,ltr
+,,,,Green Chilli,989,gm
+,,,,Salt,1.32,kg
+,,,,Curd,38.86,kg
+,,,,Ghee,2.1,kg
+,,,,Wheat Flour,42.69,kg
+,,,,Basmati Rice,34.53,kg
+,,,,Apple,309,nos
+,,,,Banana,421,nos
+,,,,Custard Powder,3.13,kg
+,,,,Milk,53.53,ltr
+,,,,Sugar,5.91,kg
+,,,,Salad Cucumber,10.27,kg
+,,,,Lemon,215,nos
+,,,,Drinking Water,103,pkt
+23/06/2026,Lunch,40,Kadhi + Chicken Biryani + Pav + Sheer Khurma,Curd,21.04,kg
+,,,,Besan,2,kg
+,,,,Ghee,2.46,kg
+,,,,Salt,558,gm
+,,,,Chicken,26.39,kg
+,,,,Basmati Rice,15.94,kg
+,,,,Onion,9.88,kg
+,,,,Biryani Masala,376,gm
+,,,,Oil,1.17,ltr
+,,,,Pav,630,nos
+,,,,Butter,1.18,kg
+,,,,Milk,50.76,ltr
+,,,,Vermicelli,2.49,kg
+,,,,Sugar,4.56,kg
+,,,,Dry Fruits,1.57,kg
+,,,,Salad Cucumber,3.86,kg
+,,,,Lemon,85,nos
+,,,,Drinking Water,42,pkt
+24/06/2026,Lunch,110+4,Chicken Biryani + Butter Chicken + Fruit Salad,Chicken,152.5,kg
+,,,,Basmati Rice,42.91,kg
+,,,,Onion,38.01,kg
+,,,,Curd,16.51,kg
+,,,,Biryani Masala,1.09,kg
+,,,,Ghee,3.44,kg
+,,,,Oil,3.57,ltr
+,,,,Salt,1.97,kg
+,,,,Butter,5.66,kg
+,,,,Fresh Cream,6.71,ltr
+,,,,Tomato,21.46,kg
+,,,,Ginger Garlic Paste,2.71,kg
+,,,,Apple,324,nos
+,,,,Banana,452,nos
+,,,,Custard Powder,3.39,kg
+,,,,Milk,55.7,ltr
+,,,,Sugar,6.51,kg
+,,,,Salad Cucumber,11.26,kg
+,,,,Lemon,215,nos
+,,,,Drinking Water,121,pkt
+24/06/2026,Dinner,94,Egg Bhurji + Kheema + Cream Cornflakes,Eggs,1124,nos
+,,,,Onion,31.19,kg
+,,,,Tomato,16.69,kg
+,,,,Green Chilli,978,gm
+,,,,Oil,6.64,ltr
+,,,,Salt,1.11,kg
+,,,,Mutton Kheema,48.95,kg
+,,,,Green Peas,7.74,kg
+,,,,Cornflakes,7.63,kg
+,,,,Fresh Cream,9.39,ltr
+,,,,Sugar,4.91,kg
+,,,,Milk,27.34,ltr
+,,,,Salad Cucumber,9.51,kg
+,,,,Lemon,187,nos
+,,,,Drinking Water,98,pkt
+26/06/2026,Dinner,96+15,Chicken Biryani + Aloo Pitha + Chawal + Roti,Chicken,73.12,kg
+,,,,Basmati Rice,85.1,kg
+,,,,Onion,27.03,kg
+,,,,Curd,16.84,kg
+,,,,Biryani Masala,1.16,kg
+,,,,Ghee,4.52,kg
+,,,,Oil,11.16,ltr
+,,,,Salt,2.12,kg
+,,,,Potato,46,kg
+,,,,Besan,9,kg
+,,,,Green Chilli,1.15,kg
+,,,,Wheat Flour,43.81,kg
+,,,,Salad Cucumber,11.07,kg
+,,,,Lemon,226,nos
+,,,,Drinking Water,115,pkt
+27/06/2026,Lunch,58,Aloo Pitha + Kadhi + Roti + Chawal + Sheer Khurma,Potato,23.66,kg
+,,,,Besan,7.61,kg
+,,,,Oil,4.15,ltr
+,,,,Green Chilli,598,gm
+,,,,Salt,759,gm
+,,,,Curd,24.02,kg
+,,,,Ghee,2.26,kg
+,,,,Wheat Flour,24.43,kg
+,,,,Basmati Rice,20.66,kg
+,,,,Milk,72.6,ltr
+,,,,Vermicelli,3.56,kg
+,,,,Sugar,7.32,kg
+,,,,Dry Fruits,2.31,kg
+,,,,Salad Cucumber,5.93,kg
+,,,,Lemon,118,nos
+,,,,Drinking Water,60,pkt
+27/06/2026,Dinner,118+5,Egg Bhurji + Butter Chicken + Sheer Khurma,Eggs,1497,nos
+,,,,Onion,30.47,kg
+,,,,Tomato,35.28,kg
+,,,,Green Chilli,1.28,kg
+,,,,Oil,3.84,ltr
+,,,,Salt,1.47,kg
+,,,,Chicken,73.92,kg
+,,,,Butter,6.1,kg
+,,,,Fresh Cream,7.35,ltr
+,,,,Ginger Garlic Paste,2.97,kg
+,,,,Milk,150.05,ltr
+,,,,Vermicelli,7.34,kg
+,,,,Sugar,15.2,kg
+,,,,Dry Fruits,5.08,kg
+,,,,Ghee,2.55,kg
+,,,,Salad Cucumber,12.48,kg
+,,,,Lemon,235,nos
+,,,,Drinking Water,123,pkt
+28/06/2026,Lunch,74,Chicken Biryani + Egg Bhurji + Fruit Salad,Chicken,52.68,kg
+,,,,Basmati Rice,29.62,kg
+,,,,Onion,28.99,kg
+,,,,Curd,11.4,kg
+,,,,Biryani Masala,726,gm
+,,,,Ghee,2.13,kg
+,,,,Oil,4.54,ltr
+,,,,Salt,1.16,kg
+,,,,Eggs,891,nos
+,,,,Tomato,7.08,kg
+,,,,Green Chilli,726,gm
+,,,,Apple,216,nos
+,,,,Banana,286,nos
+,,,,Custard Powder,2.25,kg
+,,,,Milk,35.82,ltr
+,,,,Sugar,4.53,kg
+,,,,Salad Cucumber,7.82,kg
+,,,,Lemon,156,nos
+,,,,Drinking Water,72,pkt
+28/06/2026,Dinner,52+4,Butter Chicken + Pav + Roti + Sheer Khurma,Chicken,33.09,kg
+,,,,Butter,4.53,kg
+,,,,Fresh Cream,3.25,ltr
+,,,,Tomato,11.74,kg
+,,,,Onion,5.68,kg
+,,,,Ginger Garlic Paste,1.46,kg
+,,,,Salt,398,gm
+,,,,Pav,873,nos
+,,,,Wheat Flour,23.03,kg
+,,,,Oil,821,ml
+,,,,Milk,66.26,ltr
+,,,,Vermicelli,3.44,kg
+,,,,Sugar,6.35,kg
+,,,,Dry Fruits,2.14,kg
+,,,,Ghee,1.16,kg
+,,,,Salad Cucumber,5.74,kg
+,,,,Lemon,112,nos
+,,,,Drinking Water,54,pkt
+29/06/2026,Lunch,78+2,Kadhi + Kheema + Chawal + Pav + Cream Cornflakes,Curd,32.86,kg
+,,,,Besan,4.19,kg
+,,,,Ghee,1.58,kg
+,,,,Salt,1.2,kg
+,,,,Mutton Kheema,38.63,kg
+,,,,Onion,14.82,kg
+,,,,Tomato,6.55,kg
+,,,,Green Peas,6.31,kg
+,,,,Oil,3.12,ltr
+,,,,Basmati Rice,28.75,kg
+,,,,Pav,1289,nos
+,,,,Butter,2.4,kg
+,,,,Cornflakes,6.47,kg
+,,,,Fresh Cream,7.95,ltr
+,,,,Sugar,3.8,kg
+,,,,Milk,23.15,ltr
+,,,,Salad Cucumber,7.91,kg
+,,,,Lemon,157,nos
+,,,,Drinking Water,78,pkt
+29/06/2026,Dinner,43,Kheema + Chicken Biryani + Chawal + Pav,Mutton Kheema,20.81,kg
+,,,,Onion,18.43,kg
+,,,,Tomato,3.44,kg
+,,,,Green Peas,3.36,kg
+,,,,Oil,3.16,ltr
+,,,,Salt,888,gm
+,,,,Chicken,29.92,kg
+,,,,Basmati Rice,31.01,kg
+,,,,Curd,6.27,kg
+,,,,Biryani Masala,413,gm
+,,,,Ghee,1.79,kg
+,,,,Pav,708,nos
+,,,,Butter,1.34,kg
+,,,,Salad Cucumber,4.04,kg
+,,,,Lemon,82,nos
+,,,,Drinking Water,41,pkt

@@ -1,0 +1,16 @@
+{
+  "name": "mawaid-ingredient-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Per-thaal and total ingredient quantities for Mawaid menus, learned from menu history.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node tools/test-engine.js",
+    "build-model": "node tools/build-model.js",
+    "build-model:with-confirmed": "node tools/build-model.js --include-confirmed",
+    "sample": "node tools/make-sample.js && node tools/build-model.js --sample"
+  },
+  "devDependencies": {
+    "xlsx": "0.18.5"
+  }
+}
